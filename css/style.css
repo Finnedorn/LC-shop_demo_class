@@ -1,0 +1,19 @@
+/* general */
+
+
+:root {
+    --ms-orange: #F28705;
+    --ms-yellow: #D9CF43;
+    --ms-green: #395873;
+    --ms-dark: #010440;
+    --ms-primary: #7302178a;
+    --ms-light: #ffffff;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.my-ratio {
+    aspect-ratio: 1 / 1.5;
+}
